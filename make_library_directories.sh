@@ -152,7 +152,16 @@ DIRS=(
   "$ROOT_DIR/000_Information_Technology/009_Professional_Technology/Ethics_Society"
   "$ROOT_DIR/000_Information_Technology/009_Professional_Technology/History_of_Computing"
   "$ROOT_DIR/000_Information_Technology/009_Professional_Technology/Open_Source_Communities"
-  "$ROOT_DIR/000_Information_Technology/009_Professional_Technology/Knowledge_Management"  # PKM, Zettelkasten, GTD?
+
+  # ------------------------------------------------------------------------------
+  # 020: KNOWLEDGE MANAGEMENT
+  # Library & information sciences - organizing, finding, and retaining what you
+  # know. Split out of 000 because these techniques aren't specific to computing.
+  # ------------------------------------------------------------------------------
+  "$ROOT_DIR/020_Knowledge_Management/Notes_Journals"
+  "$ROOT_DIR/020_Knowledge_Management/Productivity_Systems"               # GTD and similar
+  "$ROOT_DIR/020_Knowledge_Management/Research_Methods"
+  "$ROOT_DIR/020_Knowledge_Management/Reading_and_Study_Skills"
 
   # ------------------------------------------------------------------------------
   # 100: PHILOSOPHY & PSYCHOLOGY
@@ -647,6 +656,7 @@ done
 echo "✅ Ebook library structure created at: $ROOT_DIR"
 echo ""
 echo "000 Information Technology: Computer science, programming, AI, security, cloud/DevOps"
+echo "020 Knowledge Management: Note-taking/PKM, productivity systems, research methods"
 echo "100 Philosophy & Psychology: Metaphysics, ethics, logic, philosophical schools, psychology"
 echo "200 Religion: World religions, theology, mythology, atheism, spiritual traditions"
 echo "300 Social Sciences: Politics, economics, law, sociology, anthropology, education"

@@ -22,6 +22,7 @@ I was having trouble deciding how to organize my ebooks, and I thought I may as 
 
 ## Other Sections
 
+- **020 Knowledge Management**: Note-taking/journaling, productivity systems, research/study methods
 - **100 Philosophy & Psychology**: Traditional philosophical and psychological works
 - **200 Religion**: World religions, theology, mythology, spiritual traditions
 - **300 Social Sciences**: Politics, economics, law, sociology, anthropology
