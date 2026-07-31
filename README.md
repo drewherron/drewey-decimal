@@ -8,6 +8,8 @@ This script creates a hierarchical directory structure for organizing ebooks usi
 
 I was having trouble deciding how to organize my ebooks, and I thought I may as well use a popular/common existing system. This would force me to familiarize myself with the DDC numbers, and also provide guidance when I can't decide where to put a new book or category. I customized the directory structure for the types of books I would personally be interested in, I will either have empty directories or delete them, and I'll add new ones later if necessary. This script is just a starting point. I'm providing it here because, if you're having trouble organizing your own library, it could be a good starting point for you too.
 
+All the script does is create directories, so you don't have to worry about multiple runs or running on top of an existing library - you won't lose any books/data.
+
 ## Technology (000s)
 
 - **001**: Theoretical CS foundations
